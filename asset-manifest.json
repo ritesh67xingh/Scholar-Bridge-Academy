@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Scholar-Bridge-Academy/static/css/main.338ef31f.css",
-    "main.js": "/Scholar-Bridge-Academy/static/js/main.2c47581b.js",
+    "main.js": "/Scholar-Bridge-Academy/static/js/main.713389a2.js",
     "static/js/455.b2a54746.chunk.js": "/Scholar-Bridge-Academy/static/js/455.b2a54746.chunk.js",
-    "static/js/16.4afd126a.chunk.js": "/Scholar-Bridge-Academy/static/js/16.4afd126a.chunk.js",
-    "static/js/206.e8b7e3a5.chunk.js": "/Scholar-Bridge-Academy/static/js/206.e8b7e3a5.chunk.js",
-    "static/js/108.c0843fe6.chunk.js": "/Scholar-Bridge-Academy/static/js/108.c0843fe6.chunk.js",
-    "static/js/745.f76d2334.chunk.js": "/Scholar-Bridge-Academy/static/js/745.f76d2334.chunk.js",
-    "static/js/562.e36633b7.chunk.js": "/Scholar-Bridge-Academy/static/js/562.e36633b7.chunk.js",
+    "static/js/16.75d3d0b1.chunk.js": "/Scholar-Bridge-Academy/static/js/16.75d3d0b1.chunk.js",
+    "static/js/206.cb921059.chunk.js": "/Scholar-Bridge-Academy/static/js/206.cb921059.chunk.js",
+    "static/js/108.d7507b12.chunk.js": "/Scholar-Bridge-Academy/static/js/108.d7507b12.chunk.js",
+    "static/js/745.66ce0863.chunk.js": "/Scholar-Bridge-Academy/static/js/745.66ce0863.chunk.js",
+    "static/js/562.3b30d68a.chunk.js": "/Scholar-Bridge-Academy/static/js/562.3b30d68a.chunk.js",
     "static/js/453.1425d327.chunk.js": "/Scholar-Bridge-Academy/static/js/453.1425d327.chunk.js",
     "static/js/826.ec027dba.chunk.js": "/Scholar-Bridge-Academy/static/js/826.ec027dba.chunk.js",
     "static/css/24.773bba70.chunk.css": "/Scholar-Bridge-Academy/static/css/24.773bba70.chunk.css",
@@ -43,13 +43,13 @@
     "static/media/hero-image-2.jpg": "/Scholar-Bridge-Academy/static/media/hero-image-2.a49375bc5a3b8a8e6fdd.jpg",
     "index.html": "/Scholar-Bridge-Academy/index.html",
     "main.338ef31f.css.map": "/Scholar-Bridge-Academy/static/css/main.338ef31f.css.map",
-    "main.2c47581b.js.map": "/Scholar-Bridge-Academy/static/js/main.2c47581b.js.map",
+    "main.713389a2.js.map": "/Scholar-Bridge-Academy/static/js/main.713389a2.js.map",
     "455.b2a54746.chunk.js.map": "/Scholar-Bridge-Academy/static/js/455.b2a54746.chunk.js.map",
-    "16.4afd126a.chunk.js.map": "/Scholar-Bridge-Academy/static/js/16.4afd126a.chunk.js.map",
-    "206.e8b7e3a5.chunk.js.map": "/Scholar-Bridge-Academy/static/js/206.e8b7e3a5.chunk.js.map",
-    "108.c0843fe6.chunk.js.map": "/Scholar-Bridge-Academy/static/js/108.c0843fe6.chunk.js.map",
-    "745.f76d2334.chunk.js.map": "/Scholar-Bridge-Academy/static/js/745.f76d2334.chunk.js.map",
-    "562.e36633b7.chunk.js.map": "/Scholar-Bridge-Academy/static/js/562.e36633b7.chunk.js.map",
+    "16.75d3d0b1.chunk.js.map": "/Scholar-Bridge-Academy/static/js/16.75d3d0b1.chunk.js.map",
+    "206.cb921059.chunk.js.map": "/Scholar-Bridge-Academy/static/js/206.cb921059.chunk.js.map",
+    "108.d7507b12.chunk.js.map": "/Scholar-Bridge-Academy/static/js/108.d7507b12.chunk.js.map",
+    "745.66ce0863.chunk.js.map": "/Scholar-Bridge-Academy/static/js/745.66ce0863.chunk.js.map",
+    "562.3b30d68a.chunk.js.map": "/Scholar-Bridge-Academy/static/js/562.3b30d68a.chunk.js.map",
     "453.1425d327.chunk.js.map": "/Scholar-Bridge-Academy/static/js/453.1425d327.chunk.js.map",
     "826.ec027dba.chunk.js.map": "/Scholar-Bridge-Academy/static/js/826.ec027dba.chunk.js.map",
     "24.773bba70.chunk.css.map": "/Scholar-Bridge-Academy/static/css/24.773bba70.chunk.css.map",
@@ -60,6 +60,6 @@
   },
   "entrypoints": [
     "static/css/main.338ef31f.css",
-    "static/js/main.2c47581b.js"
+    "static/js/main.713389a2.js"
   ]
 }
