@@ -1,7 +1,6 @@
-import React from "react";
+import React, { lazy, Suspense } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { lazy, Suspense } from "react";
-import "bootstrap/dist/css/bootstrap.css"; // ✅ Fixed import
+import "bootstrap/dist/css/bootstrap.css";
 import Preloader from "./layout/Preloader";
 
 // Lazy load components
@@ -14,18 +13,18 @@ const NoPage = lazy(() => import("./layout/NoPage"));
 
 function App() {
   return (
-    <Router basename="/">
-  <Suspense fallback={<Preloader />}>
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/about" element={<About />} />
-      <Route path="/courses" element={<Courses />} />
-      <Route path="/terms" element={<Terms />} />
-      <Route path="/contact" element={<Contact />} />
-      <Route path="*" element={<NoPage />} />
-    </Routes>
-  </Suspense>
-</Router>
+    <Router>
+      <Suspense fallback={<Preloader />}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/courses" element={<Courses />} />
+          <Route path="/terms" element={<Terms />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="*" element={<NoPage />} />
+        </Routes>
+      </Suspense>
+    </Router>
   );
 }
 
