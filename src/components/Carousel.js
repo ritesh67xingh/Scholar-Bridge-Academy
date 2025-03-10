@@ -37,11 +37,6 @@ const Carousel = () => {
                   Book Demo
                 </Link>
                 <ModalVideo channel='youtube' autoplay='true' isOpen={isOpen} videoId="yqWX86uT5jM" onClose={() => setOpen(false)} />
-                {/* Change this button to link to StartClassPage */}
-                <Link to="/start-class" className="btn-watch-video d-flex align-items-center pointer">
-                  <i className="bi bi-play-circle-fill"></i>
-                  <span>Start Class</span>
-                </Link>
               </div>
             </div>
             <div className="col-lg-5 col-md-12 col-12">
